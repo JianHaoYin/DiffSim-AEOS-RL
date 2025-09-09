@@ -1,0 +1,12 @@
+*.pyc
+Pipfile*
+__pycache__/
+build/
+**.egg-info/
+.pytest_cache/
+.mypy_cache/
+*.so
+.vscode/
+*.tpc
+*.tls
+*.bsp
